@@ -18,7 +18,7 @@ Remember to upload your Jupyter notebook for this assignment to your GitHub repo
 
 ### Files
 
-* [Houing Rental Analysis Starter Code](Starter_Code/san_francisco_housing.ipynb)
+* [Housing Rental Analysis Starter Code](Starter_Code/san_francisco_housing.ipynb)
 
 * [`housing_per_year` CSV File](Starter_Code/Resources/housing_per_year.csv)
 
