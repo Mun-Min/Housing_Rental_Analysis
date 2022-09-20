@@ -14,20 +14,6 @@ For this homework assignment, you’ll need to create and submit the following d
 
 Remember to upload your Jupyter notebook for this assignment to your GitHub repository. Make sure to update the `README.md` file to explain your project and any information that’s needed to interact with your plots.
 
----
-
-### Files
-
-* [Housing Rental Analysis Starter Code](Starter_Code/san_francisco_housing.ipynb)
-
-* [`housing_per_year` CSV File](Starter_Code/Resources/housing_per_year.csv)
-
-* [`neighborhoods_coordinates` CSV File](Starter_Code/Resources/neighborhoods_coordinates.csv)
-
-* [`sfo_neighborhoods_census_data` CSV File](Starter_Code/Resources/sfo_neighborhoods_census_data.csv)
-
----
-
 ### Instructions
 
 Use the `san_francisco_housing.ipynb` notebook to visualize and analyze the real-estate data.
